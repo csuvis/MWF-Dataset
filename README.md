@@ -1,4 +1,4 @@
-# MaliciousWebshellFamilyDataset
+# MWF-Dataset
 In this project, we introduce a malicious webshell family dataset, called MWF dataset. Malicious webshells currently present tremendous threats to cloud security. And fine-grained multi-classification is urgently needed to enable precise responses and active defenses on malicious webshell threats. This dataset contains 1,359 malicious webshell samples originally obtained from the cloud servers of Alibaba Cloud. Each of them is provided with a family label. The samples of the same family generally present similar characteristics or behaviors. The dataset has a total of 78 families and 22 outliers. It has potential in cloud security and generalized sequence, graph, and tree data analytics and visualization.
 
 # Supporting information
