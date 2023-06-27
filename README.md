@@ -1,4 +1,4 @@
-![image](https://github.com/csuvis/MWF-Dataset/assets/69612273/56d5a063-8ea1-49e2-85b8-b9f35599bc43)![image](https://github.com/csuvis/MWF-Dataset/assets/69612273/cc37923a-b052-4c93-a6d7-a797e5db06ef)# Malicious Webshell Family Dataset (MWF Dataset)
+# Malicious Webshell Family Dataset (MWF Dataset)
 
 In this project, we introduce a malicious webshell family dataset named MWF to facilitate webshell multi-classification researches. The dataset contains 1,359 malicious webshell samples originally obtained from the cloud servers of Alibaba Cloud. Each of them is provided with a family label. The samples of the same family generally present similar characteristics or behaviors. The dataset has a total of 78 families and 22 outliers.
 
